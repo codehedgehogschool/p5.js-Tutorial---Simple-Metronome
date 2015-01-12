@@ -1,6 +1,6 @@
 /*
   CODE HEDGEHOG
-  Keyboard drum kit with P5.js
+  Simple Metronome with P5.js
   @author Stephen Monslow
 */
 var express = require('express');
